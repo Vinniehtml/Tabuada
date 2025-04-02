@@ -1,0 +1,18 @@
+package br.dev.vinicius.tabuada;
+
+public class DevTabuada {
+
+	public static void main(String[] args) {
+		while (true) {
+			int contador = 0;
+			while (contador < 10) {
+				System.out.println("SENAI JANDIRA");
+				contador = contador +1;
+			}
+			
+			System.out.println("FIM");
+		}
+
+	}
+
+}
